@@ -2,3 +2,4 @@ master
 up更新4
 rebase更新2
 こんだけ
+コミットテスト用
